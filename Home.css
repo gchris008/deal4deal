@@ -1,0 +1,22 @@
+
+
+/* src/components/Home.css */
+.home-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.logo {
+  font-size: 3em;
+  font-weight: bold;
+  color: #333;
+}
+
+.highlight {
+  color: #ff4c4c;
+}
+
+p {
+  font-size: 1.2em;
+  color: #666;
+}
